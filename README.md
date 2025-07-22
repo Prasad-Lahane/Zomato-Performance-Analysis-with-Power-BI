@@ -1,14 +1,14 @@
-📊 Zomato Performance Analysis with Power BI
+## 📊 Zomato Performance Analysis with Power BI
 
 This project presents a detailed analysis of Zomato's sales, user activity, and city-wise performance using dynamic and interactive Power BI dashboards.
 
-🚀 Project Overview
+## 🚀 Project Overview
 Through exploratory data analysis and visual storytelling, this project dives into:
 1. Sales patterns across categories (Veg, Non-Veg, Others) and years
 2. User behavior by age group, gender, churn, and retention
 3. City-level performance, identifying top and underperforming regions
 
-🔍 Key Insights:
+## 🔍 Key Insights:
 1. ₹987M+ revenue generated; Veg items lead in both sales and ratings
 2. Sales peaked in 2018, then declined post-2020
 3. Users aged 22–25 are most active, but also most likely to churn
@@ -16,19 +16,19 @@ Through exploratory data analysis and visual storytelling, this project dives in
 5. Cities like Tirupati and Bikaner show strong engagement and loyalty
 6. Areas like Adityapur and Navrangpura need re-engagement due to high user loss or falling sales
 
-📈 Tools & Skills Used:
+## 📈 Tools & Skills Used:
 1. Power BI – for creating interactive dashboards and filters
 2. Data Transformation & Cleaning – preparing structured data for analysis
 3. Visual Analytics – identifying behavioral and business trends
 4. Analytical Storytelling – translating insights into strategic recommendations
 
-🧠 How to Use
+## 🧠 How to Use
 1. Clone the repository
 2. Open the .pbit file in Power BI Desktop
 3. Explore and interact with filters (city, category, age, etc.)
 
-🤝 Let’s Connect
+## 🤝 Let’s Connect
 If you're passionate about data storytelling, business intelligence, or customer behavior analytics, feel free to fork, contribute, or reach out!
 
-## Screenshots / Demos
+## Screenshots / Demos:
 ![Dashboard preview].(https://github.com/Prasad-Lahane/Zomato-Performance-Analysis-with-Power-BI/blob/master/sales%20analytics%201.png).
