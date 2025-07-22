@@ -24,7 +24,7 @@ Through exploratory data analysis and visual storytelling, this project dives in
 
 🧠 How to Use
 1. Clone the repository
-2. Open the .pbix file in Power BI Desktop
+2. Open the .pbit file in Power BI Desktop
 3. Explore and interact with filters (city, category, age, etc.)
 
 🤝 Let’s Connect
