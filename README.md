@@ -29,3 +29,6 @@ Through exploratory data analysis and visual storytelling, this project dives in
 
 🤝 Let’s Connect
 If you're passionate about data storytelling, business intelligence, or customer behavior analytics, feel free to fork, contribute, or reach out!
+
+## Screenshots / Demos
+![Dashboard preview].(https://github.com/Prasad-Lahane/Zomato-Performance-Analysis-with-Power-BI/blob/master/sales%20analytics%201.png)
